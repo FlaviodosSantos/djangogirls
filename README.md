@@ -71,5 +71,5 @@
 ```
 10. Ative o servidor e acesse o localhost:8000
 ```
-    python manage.py migrate
+    python manage.py runserver
 ```
