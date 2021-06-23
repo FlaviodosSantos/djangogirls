@@ -1,3 +1,5 @@
+* link do tutorial djangogirls * <https://tutorial.djangogirls.org/pt/django_installation/>
+
 ## Instalação do ambiente e esqueleto do projeto django
 
 1. Criar o diretório e entrar
